@@ -1,0 +1,29 @@
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.exe
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.deps.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.runtimeconfig.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.dll.config
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\AD Auth.pdb
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\System.DirectoryServices.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

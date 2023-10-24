@@ -1,0 +1,52 @@
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\appsettings.Development.json
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\appsettings.json
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.exe
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.deps.json
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.runtimeconfig.json
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.pdb
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\System.DirectoryServices.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.csproj.AssemblyReference.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.AssemblyInfoInputs.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.AssemblyInfo.cs
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.csproj.CoreCompileInputs.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\scopedcss\bundle\AD Auth.styles.css
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.csproj.CopyComplete
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\refint\AD Auth.dll
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.pdb
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.genruntimeconfig.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\ref\AD Auth.dll
+C:\Users\usolu002\source\repos\AD Auth\bin\Release\net6.0\AD Auth.dll.config
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.csproj.SuggestedBindingRedirects.cache
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\AD Auth.dll.config
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets\msbuild.AD Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets\msbuild.build.AD Auth.props
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.AD Auth.props
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.AD Auth.props
+C:\Users\usolu002\source\repos\AD Auth\obj\Release\net6.0\staticwebassets.pack.json
